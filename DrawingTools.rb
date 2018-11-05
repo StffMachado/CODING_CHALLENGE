@@ -7,10 +7,6 @@ require './Painter'
 class DrawingTools
 
 
-   def initialize
-     #$canvas
-
-   end
 
   def run
     @user = UserInput.new
