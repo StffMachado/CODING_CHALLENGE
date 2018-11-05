@@ -1,9 +1,6 @@
 
 class Painter
 
-def initialize
-#@drawingtools = DrawingTools.new
-end
 
   def command_validated(d)
 
